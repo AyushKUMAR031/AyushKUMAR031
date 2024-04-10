@@ -6,9 +6,9 @@
   <li>Practising Questions in Java along with DSA</li>
   <li>Listening Music and Playing Tic-Tac-Toe</li>
 </ul>
-<br>
+<br></br>
+
 [Java-Tutorial](https://cumbersome-accordion-690.notion.site/Java-d429a63a29054db7ad9a970f8fc9cae0?pvs=4)
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AyushKUMAR031&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
