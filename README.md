@@ -8,7 +8,8 @@
 </ul>
 <br>
 
-Accees my Java Notes -> [Ghost-Bytes](https://cumbersome-accordion-690.notion.site/Ghost-Bytes-4c359db166d54d9db4905d1c57863e02?pvs=4)
+Access my Java Notes -> [JAVA/Ghost-Bytes](https://cumbersome-accordion-690.notion.site/Ghost-Bytes-4c359db166d54d9db4905d1c57863e02?pvs=4)
+Access my OS Notes -> [OS/Ghost-Bytes](https://cumbersome-accordion-690.notion.site/Unit-4-dabaefe675fe4228ba4aa368b990ab4f?pvs=4)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AyushKUMAR031&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
