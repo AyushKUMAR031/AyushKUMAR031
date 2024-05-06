@@ -19,6 +19,11 @@
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+> Node-Memos
+- [repo/NodeMemos](https://github.com/AyushKUMAR031/NodeMemos)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 <br>
 <p align="center">
   <h5>Some Tools I have Learned and Used :</h5>
