@@ -27,4 +27,10 @@
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushKUMAR031&show_icons=true&theme=radical)
 
-
+<h2> Thank you for visiting my profile </h2>                                                                                                                      
+ <table>
+        <tr>
+             <td><h3> Visitors: </h3></td>
+             <td><img src="https://profile-counter.glitch.me/AyushKUMAR031/count.svg"></td>                                                                     
+        </tr>                                                                                             
+ </table>
