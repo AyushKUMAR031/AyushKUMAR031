@@ -3,7 +3,7 @@
 <h3>🚧 Currently:</h3>
 <ul>
   <li>Improving my skills in Backend</li>
-  <li>Practising Questions in Java along with DSA</li>
+  <li>Practising Questions in C++ along with DSA</li>
   <li>Listening Music and Playing Tic-Tac-Toe</li>
 </ul>
 <br>
