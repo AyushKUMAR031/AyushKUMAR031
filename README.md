@@ -11,10 +11,10 @@
 
 | Title | Link | Language/ Tools |
 | :---         |     :---:      |          ---: |
-| Java Records   | [java/Ghost-Bytes](https://cumbersome-accordion-690.notion.site/Ghost-Bytes-4c359db166d54d9db4905d1c57863e02?pvs=4) | ![java](https://badgen.net/badge/icon/java?icon=java&label) |
-| OS Entries     | [OS/Ghost-Bytes](https://cumbersome-accordion-690.notion.site/Unit-4-dabaefe675fe4228ba4aa368b990ab4f?pvs=4) | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
-| Node-Memos     | [repo/NodeMemos](https://github.com/AyushKUMAR031/NodeMemos) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| myReact       | [repo/myReact](https://github.com/AyushKUMAR031/myReact) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| Java Records   | [Java](https://cumbersome-accordion-690.notion.site/Ghost-Bytes-4c359db166d54d9db4905d1c57863e02?pvs=4) | ![java](https://badgen.net/badge/icon/java?icon=java&label) |
+| OS Entries     | [OS](https://cumbersome-accordion-690.notion.site/Unit-4-dabaefe675fe4228ba4aa368b990ab4f?pvs=4) | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
+| Node-Memos     | [NodeJs](https://github.com/AyushKUMAR031/NodeMemos) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| myReact       | [ReactJs](https://github.com/AyushKUMAR031/myReact) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 
 
 <p align="center">
