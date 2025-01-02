@@ -20,7 +20,7 @@
 <p align="center">
   <h5>Some Tools I have Learned and Used :</h5>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,ts,angular,bootstrap,express,nodejs,jquery,tailwind,react,codepen,discord,figma,git,github,idea,aws,vscode,pycharm,mysql,angular,vite,webstorm,mongodb,ubuntu,netlify,npm,notion,nextjs,&perline=15">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,tailwind,js,jquery,ts,angular,bootstrap,nodejs,express,mongodb,react,vite,nextjs,codepen,figma,git,github,idea,aws,vscode,pycharm,mysql,webstorm,ubuntu,netlify,vercel,npm,notion,&perline=15">
   </a>
 </p>
 
