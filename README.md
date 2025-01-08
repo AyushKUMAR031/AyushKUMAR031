@@ -6,11 +6,10 @@
   <li>Practising Questions on LeetCode in C++ </li> 
   <li>Listening Music and Working on New Website</li>
 </ul>
+
 <br>
 
 [![LeetCode user techLite](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FtechLite&logo=leetcode&logoColor=yellow)](https://leetcode.com/techLite/)
-
-<br>
 
 `Some of My Notes:`
 
