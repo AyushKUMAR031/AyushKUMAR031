@@ -12,15 +12,6 @@
 
 <br>
 
-`Some tools I have learned and used :`
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,tailwind,js,jquery,ts,angular,bootstrap,nodejs,express,mongodb,react,vite,nextjs,codepen,figma,git,github,idea,aws,vscode,pycharm,mysql,webstorm,ubuntu,netlify,vercel,npm,notion,&perline=15">
-  </a>
-</p>
-
-<br>
-
 `Some of My Notes:`
 
 | Title | Link | Tech |
@@ -32,7 +23,17 @@
 
 <br>
 
-`My Github Stats:`
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushKUMAR031&show_icons=true&theme=radical)
-
+<table align="center" style="text-align: center; color: gray; background-color: white; border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="padding: 10px; border: 1px solid gray;">My GitHub Stats</th>
+    <th style="padding: 10px; border: 1px solid gray;">Some tools I have learned and used</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid gray;">
+      <img src="https://github-readme-stats.vercel.app/api?username=AyushKUMAR031&show_icons=true&theme=radical"/>
+    </td>
+     <td style="padding: 10px; border: 1px solid gray;">
+      <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,tailwind,js,jquery,ts,angular,bootstrap,nodejs,express,mongodb,react,vite,nextjs,codepen,figma,git,github,idea,aws,vscode,pycharm,mysql,webstorm,ubuntu,netlify,vercel,npm,notion,&perline=10">
+    </td>
+  </tr>
+</table>
