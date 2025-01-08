@@ -1,6 +1,6 @@
-<h1>Hi! This is Ayush Kr.✨</h1>
-<h2>Future Full-Stack WebDeveloper🔥</h2>
-<h3>🚧 Currently:</h3>
+<h2>Hi! This is Ayush Kr.✨</h2>
+<h3>Future Full-Stack WebDeveloper🔥</h3>
+<h4>🚧 Currently:</h4>
 <ul>
   <li>Improving my skills in Backend</li>
   <li>Practising Questions on LeetCode in C++ </li> 
