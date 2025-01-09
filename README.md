@@ -8,8 +8,9 @@
 </ul>
 
 <br>
+  
+[![LeetCode user techLite](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FtechLite&logo=leetcode&logoColor=yellow)](https://leetcode.com/techLite/)           [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar2003)
 
-[![LeetCode user techLite](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FtechLite&logo=leetcode&logoColor=yellow)](https://leetcode.com/techLite/)
 
 `Some of My Notes:`
 
