@@ -33,7 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=AyushKUMAR031&show_icons=true&theme=radical"/>
     </td>
      <td style="padding: 10px; border: 1px solid gray;">
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,tailwind,js,jquery,ts,angular,bootstrap,nodejs,express,mongodb,react,vite,nextjs,codepen,figma,git,github,idea,aws,vscode,pycharm,mysql,webstorm,ubuntu,netlify,vercel,npm,notion,&perline=10">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,tailwind,js,jquery,ts,bootstrap,nodejs,express,mongodb,react,vite,nextjs,git,github,vscode,mysql,ubuntu,netlify,vercel,npm,notion,&perline=10">
     </td>
   </tr>
 </table>
