@@ -10,7 +10,9 @@
 
 <br>
   
-[![LeetCode user techLite](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FtechLite&logo=leetcode&logoColor=yellow)](https://leetcode.com/techLite/)           [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar2003)        [![Resume](https://img.shields.io/badge/My%20Resume%20-8A2BE2)](https://docs.google.com/document/d/1hpfkUjRuMBCmLmKaaugUj2cxDYyPR-ED0o9TABKyj2A/edit?usp=sharing)
+[![LeetCode user techLite](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FtechLite&logo=leetcode&logoColor=yellow)](https://leetcode.com/techLite/)           [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar2003) 
+[![GeeksForGeeks](https://img.shields.io/badge/28-2F8D46?style=plastic&logo=geeksforgeeks&logoColor=2F8D46&label=gfg)](https://www.geeksforgeeks.org/user/ayushkumarknwk/)
+[![Resume](https://img.shields.io/badge/My%20Resume%20-8A2BE2)](https://docs.google.com/document/d/1hpfkUjRuMBCmLmKaaugUj2cxDYyPR-ED0o9TABKyj2A/edit?usp=sharing)
 
 `Some of My Notes:`
 
