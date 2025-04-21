@@ -40,24 +40,16 @@
   </tr>
 </table>
 
-<!--table>
+<table>
   <tr>
-    <th>🚧 Currently:</th>
-    <th>Platforms: </th>
+    <th style="padding: 10px; border: 1px solid gray;">My Top Projects</th>
   </tr>
   <tr>
-    <td>
-      <ul>
-        <li>Improving my skills in Backend</li>
-        <li>Working on a Chatapp with WebRTC </li>
-        <li>Practising Questions and DSA on LeetCode in C++ </li> 
-        <li>Listening Music and Working on New Website</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FtechLite&logo=leetcode&logoColor=yellow)](https://leetcode.com/techLite/)">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar2003)">
-      <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1hpfkUjRuMBCmLmKaaugUj2cxDYyPR-ED0o9TABKyj2A%2Fedit%3Fusp%3Dsharing">
+    <td style="padding: 10px; border: 1px solid gray; text-align: center; border-radius: 10px;">
+      <img 
+        src="https://github.com/AyushKUMAR031/AyushKUMAR031/blob/main/myprojectlist.png"
+      />
     </td>
   </tr>
-</table> -->
+</table>
+
