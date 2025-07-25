@@ -12,7 +12,7 @@
   
 [![LeetCode user techLite](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FtechLite&logo=leetcode&logoColor=yellow)](https://leetcode.com/techLite/)           [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar2003) 
 [![GeeksForGeeks](https://img.shields.io/badge/28-2F8D46?style=plastic&logo=geeksforgeeks&logoColor=2F8D46&label=gfg)](https://www.geeksforgeeks.org/user/ayushkumarknwk/)
-[![Resume](https://img.shields.io/badge/My%20Resume%20-8A2BE2)](https://docs.google.com/document/d/1QHBMBFfZO780ORiF4iFAqDhCPGzC1I3_7jd0mQNlHDk/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/My%20Resume%20-8A2BE2)](https://docs.google.com/document/d/1HL8MMvXeAtNiR5dyamY-drVquNLM2WMx/edit?usp=sharing&ouid=108681129222819219055&rtpof=true&sd=true)
 [![Visit my Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio%20-4B0082)](https://portfolio-ayushs-projects-8a64bee0.vercel.app/)
 
 `Some of My Notes:`
