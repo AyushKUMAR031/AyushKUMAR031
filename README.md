@@ -1,5 +1,5 @@
 <h2>Hi! This is Ayush Kr.✨</h2>
-<h3>Future Full-Stack WebDeveloper🔥</h3>
+<h3>Full-Stack WebDeveloper🔥</h3>
 <h4>🚧 Currently:</h4>
 <ul>
   <li>Improving my skills in Backend</li>
@@ -48,9 +48,10 @@
   <tr>
     <td style="padding: 10px; border: 1px solid gray; text-align: center; border-radius: 10px;">
       <img 
-        src="https://github.com/AyushKUMAR031/AyushKUMAR031/blob/main/myprojectlist.png"
+        src="https://github.com/AyushKUMAR031/AyushKUMAR031/blob/main/myprojectlist.png" style="width:600px"
       />
     </td>
   </tr>
 </table>
+
 
