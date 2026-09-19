@@ -20,7 +20,7 @@
   </tr>
   <tr>
      <td style="padding: 10px; border: 1px solid gray;">
-      <img src="https://skillicons.dev/icons?i=cpp,java,html,css,tailwind,ts,nodejs,mongodb,react,vite,nextjs,git,visualstudio,mysql,ubuntu,netlify,vercel,docker,npm,notion,azure,redis,redux&perline=10">
+      <img src="https://skillicons.dev/icons?i=cpp,java,html,css,tailwind,ts,nodejs,mongodb,react,vite,nextjs,git,visualstudio,mysql,ubuntu,netlify,vercel,docker,npm,notion,azure,redis,redux&perline=15">
     </td>
   </tr>
 </table>
@@ -32,7 +32,7 @@
   <tr>
     <td style="padding: 10px; border: 1px solid gray; text-align: center; border-radius: 10px;">
       <img 
-        src="https://github.com/AyushKUMAR031/AyushKUMAR031/blob/main/myprojectlist.png" style="width:555px"
+        src="https://github.com/AyushKUMAR031/AyushKUMAR031/blob/main/myprojectlist.png" style="width:840px"
       />
     </td>
   </tr>
