@@ -1,4 +1,4 @@
-<h3>Hi! This is <b>Ayush Kr.</b>✨ | Web Developer | Learner </h3>
+<h3>Hi! This is <b>Ayush Kr.</b> | Software Developer | Learner </h3>
 <h5>Currently:</h5>
 <ul>
   <li>working at company as an <b>ASE</b></li>
